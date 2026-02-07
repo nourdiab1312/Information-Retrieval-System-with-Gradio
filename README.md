@@ -62,7 +62,8 @@ The system follows the standard Information Retrieval pipeline:
 ---
 
 ## 📂 Project Structure
-Information-Retrieval-System-with-Gradio/
+Information-Retrieval-System-with-Gradio
+/
 │
 ├── IRS WITH GRADIO.ipynb
 │ └── Contains:
