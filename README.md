@@ -25,3 +25,29 @@ documents based on similarity and retrieval techniques.
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ▶️ How to Run
+1. Download the notebook file.
+2. Open it using **Google Colab** or **Jupyter Notebook**.
+3. Run all cells.
+4. Launch the Gradio interface and start searching!
+
+---
+
+## 🎯 Project Goal
+The goal of this project is to demonstrate the implementation of an
+Information Retrieval System and provide an easy-to-use interface
+for experimenting with search and retrieval concepts.
+
+---
+
+## 📌 Notes
+- This project is intended for learning and demonstration purposes.
+- Future improvements may include dataset expansion and performance optimization.
+
+---
+
+## 👩‍💻 Author
+Created with ❤️ by [Nourhan Zein Diab]
